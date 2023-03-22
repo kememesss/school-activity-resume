@@ -100,11 +100,6 @@ h3 {
     margin-bottom: 20px;
 }
 
-/* font-family: 'Big Shoulders Display', cursive;
-font-family: 'Fraunces', serif;
-font-family: 'Hanken Grotesk', sans-serif;
-font-family: 'Inter', sans-serif;
-font-family: 'League Spartan', sans-serif;
-font-family: 'Lexend Deca', sans-serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Outfit', sans-serif; */
+.disclaimer{
+    text-align: center;
+}
